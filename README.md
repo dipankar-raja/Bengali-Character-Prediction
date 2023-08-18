@@ -14,5 +14,4 @@ character recognition systems and language processing in Bengali. This research 
 pects for enhancing handwriting recognition systems, enabling seamless integration of Bengali language
 processing technologies across diverse domains. By adeptly addressing the nuances of the Bengali script,
 the proposed combined model opens pathways for elevated language processing applications and nurtures
-the evolution of more sophisticated optical character recognition systems. The dataset and corresponding
-code are accessible at https://github.com/dipankar-raja/Bengali-Character-Prediction.
+the evolution of more sophisticated optical character recognition systems. 
